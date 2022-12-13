@@ -23,9 +23,9 @@ const settings = {
 };
 
 // Assign the initial an final color for each loop
-let initialColor = new Array('white', 'white', 'white', 'white', 'white');
+let initialColor = new Array('#fff', '#fff', '#fff', '#fff', '#fff');
 let finalColor = new Array('#ef476f', '#e36414', '#ffd166', '#06d6a0', '#118ab2');
-let backgroundColor = 'white';
+let backgroundColor = '#1e1e1e';
 
 //--------------------------------------------------------------------------------------------------------------------
 // Create the svg path for each loop
