@@ -7,7 +7,7 @@ const interpolate = require('color-interpolate');
 // --------------------------------------------------------------------------------------------
 
 /// To draw onto an existing canvas uncomment these lines and lines 23 and 24, and assign the desired canvas to the canvas variable
-const canvas = document.getElementById('logoWhite');
+const canvas = document.getElementById('logo');
 // const context = canvas.getContext('2d');
 
 // Default canvas dimensions (dimensions of the original SVG are 189x150 px)
